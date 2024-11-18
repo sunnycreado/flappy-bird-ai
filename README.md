@@ -17,8 +17,6 @@ A sophisticated Python implementation of the classic Flappy Bird game, enhanced 
 - **`src/`**: Core source code for game logic and AI integration.
 - **`assets/`**: Visual and audio assets used in the game.
 - **`models/`**: Directory for storing trained AI models.
-- **`docs/`**: Comprehensive documentation and additional resources.
-- **`tests/`**: Unit tests to ensure code reliability and performance.
 
 ## Installation
 
