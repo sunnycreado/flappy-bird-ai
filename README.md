@@ -26,7 +26,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/flappy-bird-ai.git
+   git clone https://github.com/sunnycreado/flappy-bird-ai.git
    cd flappy-bird-ai
    ```
 
